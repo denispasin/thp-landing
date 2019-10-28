@@ -1,0 +1,8 @@
+{
+  "env": {
+    "GOOGLE_AUTH": "@thp-landing-google"
+  },
+  "alias": [
+    "landing-thp.zaratan.fr"
+  ]
+}
